@@ -124,8 +124,6 @@ Set_origin[7]=0x0D
 measure=bytearray()
 motor=bytearray()
 h=0
-data=[0]*205
-angel=[0]*205
 
 SERVER_HOST = '192.168.1.104'  # 网络接口
 SERVER_PORT = 1234
